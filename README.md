@@ -1,2 +1,2 @@
-# lang-chain
- RAG based Model
+# langchain
+Tutorial for langchain LLM library
