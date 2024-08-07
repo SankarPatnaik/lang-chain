@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-oIf you have any questions or feedback, please reach out to me through [Sankar Patnaik](mailto:patnaik.sankar@gmail.com).
+If you have any questions or feedback, please reach out to me through [Sankar Patnaik](mailto:patnaik.sankar@gmail.com).
 
 ---
 
