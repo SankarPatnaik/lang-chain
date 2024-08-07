@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/SankarPatnaik/lang-chain/rag-palm-demo.git
+    git clone https://github.com/SankarPatnaik/lang-chain/lang-chain.git
     ```
 
 2. Navigate to the project directory:
