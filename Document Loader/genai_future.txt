@@ -1,0 +1,148 @@
+The Future of AI: How Artificial Intelligence Will Change the World
+AI is constantly changing our world. Here are just a few ways AI will influence our lives.
+
+Mike Thomas
+Written by Mike Thomas
+Image: Shutterstock
+Image: Shutterstock
+UPDATED BY
+Matthew Urwin | Mar 13, 2024
+REVIEWED BY
+Sadrach Pierre
+Innovations in the field of artificial intelligence continue to shape the future of humanity across nearly every industry. AI is already the main driver of emerging technologies like big data, robotics and IoT, and generative AI has further expanded the possibilities and popularity of AI. 
+
+According to a 2023 IBM survey, 42 percent of enterprise-scale businesses integrated AI into their operations, and 40 percent are considering AI for their organizations. In addition, 38 percent of organizations have implemented generative AI into their workflows while 42 percent are considering doing so.
+
+With so many changes coming at such a rapid pace, here’s what shifts in AI could mean for various industries and society at large.
+
+More on the Future of AI
+Can AI Make Art More Human?
+
+ 
+
+The Evolution of AI
+AI has come a long way since 1951, when the first documented success of an AI computer program was written by Christopher Strachey, whose checkers program completed a whole game on the Ferranti Mark I computer at the University of Manchester. Thanks to developments in machine learning and deep learning, IBM’s Deep Blue defeated chess grandmaster Garry Kasparov in 1997, and the company’s IBM Watson won Jeopardy! in 2011.  
+
+Since then, generative AI has spearheaded the latest chapter in AI’s evolution, with OpenAI releasing its first GPT models in 2018. This has culminated in OpenAI developing its GPT-4 model and ChatGPT, leading to a proliferation of AI generators that can process queries to produce relevant text, audio, images and other types of content.   
+
+AI has also been used to help sequence RNA for vaccines and model human speech, technologies that rely on model- and algorithm-based machine learning and increasingly focus on perception, reasoning and generalization. 
+
+ 
+
+How AI Will Impact the Future
+Improved Business Automation 
+About 55 percent of organizations have adopted AI to varying degrees, suggesting increased automation for many businesses in the near future. With the rise of chatbots and digital assistants, companies can rely on AI to handle simple conversations with customers and answer basic queries from employees.
+
+AI’s ability to analyze massive amounts of data and convert its findings into convenient visual formats can also accelerate the decision-making process. Company leaders don’t have to spend time parsing through the data themselves, instead using instant insights to make informed decisions.
+
+“If [developers] understand what the technology is capable of and they understand the domain very well, they start to make connections and say, ‘Maybe this is an AI problem, maybe that’s an AI problem,’” said Mike Mendelson, a learner experience designer for NVIDIA. “That’s more often the case than, ‘I have a specific problem I want to solve.’”
+
+More on AI
+75 Artificial Intelligence (AI) Companies to Know
+
+ 
+
+Job Disruption
+Business automation has naturally led to fears over job losses. In fact, employees believe almost one-third of their tasks could be performed by AI. Although AI has made gains in the workplace, it’s had an unequal impact on different industries and professions. For example, manual jobs like secretaries are at risk of being automated, but the demand for other jobs like machine learning specialists and information security analysts has risen.
+
+Workers in more skilled or creative positions are more likely to have their jobs augmented by AI, rather than be replaced. Whether forcing employees to learn new tools or taking over their roles, AI is set to spur upskilling efforts at both the individual and company level.     
+
+“One of the absolute prerequisites for AI to be successful in many [areas] is that we invest tremendously in education to retrain people for new jobs,” said Klara Nahrstedt, a computer science professor at the University of Illinois at Urbana–Champaign and director of the school’s Coordinated Science Laboratory.
+
+ 
+
+Data Privacy Issues
+Companies require large volumes of data to train the models that power generative AI tools, and this process has come under intense scrutiny. Concerns over companies collecting consumers’ personal data have led the FTC to open an investigation into whether OpenAI has negatively impacted consumers through its data collection methods after the company potentially violated European data protection laws. 
+
+In response, the Biden-Harris administration developed an AI Bill of Rights that lists data privacy as one of its core principles. Although this legislation doesn’t carry much legal weight, it reflects the growing push to prioritize data privacy and compel AI companies to be more transparent and cautious about how they compile training data.      
+
+ 
+
+Increased Regulation
+AI could shift the perspective on certain legal questions, depending on how generative AI lawsuits unfold in 2024. For example, the issue of intellectual property has come to the forefront in light of copyright lawsuits filed against OpenAI by writers, musicians and companies like The New York Times. These lawsuits affect how the U.S. legal system interprets what is private and public property, and a loss could spell major setbacks for OpenAI and its competitors. 
+
+Ethical issues that have surfaced in connection to generative AI have placed more pressure on the U.S. government to take a stronger stance. The Biden-Harris administration has maintained its moderate position with its latest executive order, creating rough guidelines around data privacy, civil liberties, responsible AI and other aspects of AI. However, the government could lean toward stricter regulations, depending on changes in the political climate.  
+
+ 
+
+Climate Change Concerns
+On a far grander scale, AI is poised to have a major effect on sustainability, climate change and environmental issues. Optimists can view AI as a way to make supply chains more efficient, carrying out predictive maintenance and other procedures to reduce carbon emissions. 
+
+At the same time, AI could be seen as a key culprit in climate change. The energy and resources required to create and maintain AI models could raise carbon emissions by as much as 80 percent, dealing a devastating blow to any sustainability efforts within tech. Even if AI is applied to climate-conscious technology, the costs of building and training models could leave society in a worse environmental situation than before.   
+
+ 
+
+What Industries Will AI Impact the Most? 
+There’s virtually no major industry that modern AI hasn’t already affected. Here are a few of the industries undergoing the greatest changes as a result of AI.
+ 
+
+AI in Manufacturing
+Manufacturing has been benefiting from AI for years. With AI-enabled robotic arms and other manufacturing bots dating back to the 1960s and 1970s, the industry has adapted well to the powers of AI. These industrial robots typically work alongside humans to perform a limited range of tasks like assembly and stacking, and predictive analysis sensors keep equipment running smoothly. 
+
+ 
+
+AI in Healthcare
+It may seem unlikely, but AI healthcare is already changing the way humans interact with medical providers. Thanks to its big data analysis capabilities, AI helps identify diseases more quickly and accurately, speed up and streamline drug discovery and even monitor patients through virtual nursing assistants. 
+
+ 
+
+AI in Finance
+Banks, insurers and financial institutions leverage AI for a range of applications like detecting fraud, conducting audits and evaluating customers for loans. Traders have also used machine learning’s ability to assess millions of data points at once, so they can quickly gauge risk and make smart investing decisions. 
+
+ 
+
+AI in Education
+AI in education will change the way humans of all ages learn. AI’s use of machine learning, natural language processing and facial recognition help digitize textbooks, detect plagiarism and gauge the emotions of students to help determine who’s struggling or bored. Both presently and in the future, AI tailors the experience of learning to student’s individual needs.
+
+ 
+
+AI in Media
+Journalism is harnessing AI too, and will continue to benefit from it. One example can be seen in The Associated Press’ use of Automated Insights, which produces thousands of earning reports stories per year. But as generative AI writing tools, such as ChatGPT, enter the market, questions about their use in journalism abound.
+
+ 
+
+AI in Customer Service
+Most people dread getting a robocall, but AI in customer service can provide the industry with data-driven tools that bring meaningful insights to both the customer and the provider. AI tools powering the customer service industry come in the form of chatbots and virtual assistants.
+
+ 
+
+AI in Transportation
+Transportation is one industry that is certainly teed up to be drastically changed by AI. Self-driving cars and AI travel planners are just a couple of facets of how we get from point A to point B that will be influenced by AI. Even though autonomous vehicles are far from perfect, they will one day ferry us from place to place.
+
+ 
+
+
+Sasha Luccioni discusses the real reasons why AI is dangerous. | Video: TED
+Risks and Dangers of AI
+Despite reshaping numerous industries in positive ways, AI still has flaws that leave room for concern. Here are a few potential risks of artificial intelligence.
+ 
+
+Job Losses 
+Between 2023 and 2028, 44 percent of workers’ skills will be disrupted. Not all workers will be affected equally — women are more likely than men to be exposed to AI in their jobs. Combine this with the fact that there is a gaping AI skills gap between men and women, and women seem much more susceptible to losing their jobs. If companies don’t have steps in place to upskill their workforces, the proliferation of AI could result in higher unemployment and decreased opportunities for those of marginalized backgrounds to break into tech.
+
+ 
+
+Human Biases 
+The reputation of AI has been tainted with a habit of reflecting the biases of the people who train the algorithmic models. For example, facial recognition technology has been known to favor lighter-skinned individuals, discriminating against people of color with darker complexions. If researchers aren’t careful in rooting out these biases early on, AI tools could reinforce these biases in the minds of users and perpetuate social inequalities.
+
+ 
+
+Deepfakes and Misinformation
+The spread of deepfakes threatens to blur the lines between fiction and reality, leading the general public to question what’s real and what isn’t. And if people are unable to identify deepfakes, the impact of misinformation could be dangerous to individuals and entire countries alike. Deepfakes have been used to promote political propaganda, commit financial fraud and place students in compromising positions, among other use cases. 
+
+ 
+
+Data Privacy
+Training AI models on public data increases the chances of data security breaches that could expose consumers’ personal information. Companies contribute to these risks by adding their own data as well. A 2024 Cisco survey found that 48 percent of businesses have entered non-public company information into generative AI tools and 69 percent are worried these tools could damage their intellectual property and legal rights. A single breach could expose the information of millions of consumers and leave organizations vulnerable as a result.  
+
+ 
+
+Automated Weapons
+The use of AI in automated weapons poses a major threat to countries and their general populations. While automated weapons systems are already deadly, they also fail to discriminate between soldiers and civilians. Letting artificial intelligence fall into the wrong hands could lead to irresponsible use and the deployment of weapons that put larger groups of people at risk.  
+
+ 
+
+Superior Intelligence
+Nightmare scenarios depict what’s known as the technological singularity, where superintelligent machines take over and permanently alter human existence through enslavement or eradication. Even if AI systems never reach this level, they can become more complex to the point where it’s difficult to determine how AI makes decisions at times. This can lead to a lack of transparency around how to fix algorithms when mistakes or unintended behaviors occur. 
+
+“I don’t think the methods we use currently in these areas will lead to machines that decide to kill us,” said Marc Gyongyosi, founder of Onetrack.AI. “I think that maybe five or 10 years from now, I’ll have to reevaluate that statement because we’ll have different methods available and different ways to go about these things.”
